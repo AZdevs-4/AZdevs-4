@@ -1,62 +1,58 @@
 ## Hi there, I'm Aizaz 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Bussiness+Analyst+|+SupplyChain+Analyst;[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+BI+Specialist;Turning+Data+into+Actionable+Insights;Generative+AI+%26+Media+Automation" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aizaz-ahmad-81025635a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am an analytical problem-solver focused on transforming complex, messy datasets into clear strategic narratives and automated solutions. My expertise lies in building interactive Business Intelligence dashboards that drive executive decision-making, optimizing operational pipelines, and designing data-driven automation systems[cite: 1, 2]. 
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I bridge the gap between technical data engineering and business growth, creating analytics tools that reveal exactly where revenue is expanding and where value is being left on the table[cite: 1]. When I am not optimizing data pipelines, I engineer high-performing digital media workflows using generative AI models[cite: 2].
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+---
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+## 🔭 Featured Projects
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### 📈 [H.S Enterprise: Sales & Profit Performance Analytics](https://github.com/your-username/HS-Enterprise-Analytics)
+An executive-level interactive BI engine built to track revenue velocity, operational cost structures, and geographic risks across multi-regional markets[cite: 1].
+*   **Architecture:** Unified Flat Table data modeling with 6 interactive cross-filtering slicers and 11 distinct visualization components[cite: 1].
+*   **Engineering:** Programmed advanced conditional alerting logic (`#B00000`) for real-time margin deficits and multi-tiered KPI gauge thresholds[cite: 1].
+*   **Impact:** Provided actionable tracking frameworks to reduce shipping costs by 10-15% and enforce strict ROI parameters on promotional discounting behaviors[cite: 1].
 
-## 🌱 Currently Learning 
+### ⚙️ [Generative Media & Algorithmic Affiliate Pipeline](https://github.com/your-username/Generative-Affiliate-Framework)
+A programmatic, data-driven automation framework designed to research markets, optimize viral hooks, and deploy cross-platform organic marketing assets[cite: 2].
+*   **Architecture:** Built an evaluation methodology analyzing real-world engagement trends against multi-tier buyer intent and impulse-buying metrics[cite: 2].
+*   **Automation:** Scripted granular, shot-by-shot production prompts utilizing advanced video models (Higgsfield) to control motion graphics and kinetic typography[cite: 2].
+*   **Execution:** Engineered 4-stage mobile-first infographic funnel architectures optimized for high-retention content networks[cite: 2].
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
+
+## 🌱 Currently Learning & Developing
+
+*   **Advanced Data Engineering:** Building robust relational data warehouses using SQL Server database engines and modern ETL processes.
+*   **Predictive Analytics:** Exploring Machine Learning frameworks to align historical business metrics with forward-looking growth models.
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+#### Data Architecture & Visualization
+*   **SQL & Databases:** Advanced Queries, Multi-table Joins, MySQL Workbench, SQL Server Architecture
+*   **Business Intelligence:** Power BI Desktop, DAX Measure Design, Unified Data Modeling, Interactive Dashboards[cite: 1]
+*   **Data Manipulation:** Microsoft Excel (Advanced Pivot Tables, Logical Functions, Lookup Formulas)
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+#### Automation & Media Engineering
+*   **Generative AI Pipelines:** Advanced Prompt Engineering (Claude, Large Language Models)[cite: 2]
+*   **Visual Automation:** Higgsfield Video Engine Customization, CapCut Production Engineering[cite: 2]
+*   **Audio Optimization:** Multi-track Editing, Noise Reduction (Audacity)
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+#### Core Competencies
+*   KPI Development & Metric Anchoring[cite: 1]
+*   Operational Cost-Benefit Auditing[cite: 1]
+*   Data Storytelling & Executive Reporting[cite: 1]
+*   Conversion Rate Optimization (CRO)[cite: 2]
